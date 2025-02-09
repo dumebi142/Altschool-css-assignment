@@ -1,0 +1,52 @@
+body {
+  background: #A7A8CD;
+}
+
+.container {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+  margin: 100px auto ;
+  background: #f4f4f4;
+  border-radius: 10px ;
+  
+
+}
+
+.article {
+  padding:30px 20px ;
+  /* width: 100%; */
+}
+
+.container img {
+  width: 100%;
+  border-radius: 10px 10px 0 0;
+}
+
+.tag {
+  position: absolute;
+  background: #FDF1B5;
+  width: 200px;
+  padding: 10px ;
+  border-radius:  8px 30px 30px 8px;
+  padding-right: 20px;
+  left: -8px;
+  top: -10px;
+}
+
+.main-header {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.sub-header {
+  color: grey;
+  font-size: 25px;
+}
+
+p {
+  font-size: 21px;
+  font-weight: 600;
+  color: #696969;
+}

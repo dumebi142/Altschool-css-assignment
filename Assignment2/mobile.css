@@ -1,0 +1,12 @@
+
+.box-2, .box-1 {
+  width: 100%;
+}
+
+.article,.box-1 {
+padding: 20px 10px;
+}
+
+.sub-heading {
+  width: 100%;
+}

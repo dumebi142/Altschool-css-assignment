@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #005AE2;
+}
+
+.container {
+width: 90%;
+margin: auto;
+color: #fff; 
+text-align: center;
+
+}
+
+.links {
+   
+    display: flex;
+    flex-direction: column;
+    align-items:center ;
+    gap: 50px;
+    
+}
+
+.links a{
+    text-decoration: none;
+    color: #005AE2;
+    padding: 10px;
+    background: #fff;
+    width:10%;
+
+}
